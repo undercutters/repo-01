@@ -4,6 +4,7 @@
 - Shinobi881
 - readus81
 - wongnwo
+- PositivEddie
 
 # wongnwo
 git branch <BranchName> **this will create your branch.  Don't type "<BranchName>", come up with a new one**
